@@ -21,10 +21,10 @@ import * as bs58 from "bs58";
 /* global BigInt */
 
 export const PROGRAM_ID = new PublicKey(
-  "Gx92bHV4V86QnPYg9miFP8kDqBZArLfCCYG7YoUDuPBb"
+  "DEjVNMrRy51NX61xVq27JsKxEEWEvaBYqFHc517cv2zJ"
 );
 const REWARD_MINT = new PublicKey(
-  "LSvXt46AdvjmHtDJjVgQuJacK1whSA7VtCE4qqQTU1T"
+  "BAHCdK2PNwQ15jgUqB9L3Gn78XdeNkXj4gT1ixxVaqyF"
 );
 
 let REWARD_MINT_DECIMALS = -1;
